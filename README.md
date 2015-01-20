@@ -4,5 +4,7 @@
 ### 依赖
 
   npm install uglify-js@1
+  
   npm install clean-css
+  
   npm install node-smushit -g
